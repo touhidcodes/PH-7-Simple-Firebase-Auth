@@ -15,3 +15,4 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig); // eslint-disable-line
+export default app;
